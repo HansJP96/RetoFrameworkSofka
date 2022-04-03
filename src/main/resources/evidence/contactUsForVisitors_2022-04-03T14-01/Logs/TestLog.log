@@ -1,0 +1,276 @@
+2022-abr.-03 14:01:14 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'contactUsForVisitors' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\contactUsForVisitors\SuccessfulSentMessage . Image name: SuccessfulSentMessage-0.png
+2022-abr.-03 14:01:20 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\contactUsForVisitors\SuccessfulSentMessage . Image name: SuccessfulSentMessage-1.png
+2022-abr.-03 14:01:21 [Test] COMPLETED : Action 'selectByValue' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Value : '1' , Timeout : '5''.
+2022-abr.-03 14:01:21 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'dorothy.runolfsdottir@testemail.com' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\contactUsForVisitors\SuccessfulSentMessage . Image name: SuccessfulSentMessage-2.png
+2022-abr.-03 14:01:22 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Sit sint perferendis commodi. Error magni perspiciatis sint quo sapiente consequatur maxime. Fugit pariatur architecto aut distinctio. Quasi rerum sit nesciunt. Deserunt facere cupiditate.' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\contactUsForVisitors\SuccessfulSentMessage . Image name: SuccessfulSentMessage-3.png
+2022-abr.-03 14:01:24 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\contactUsForVisitors\SuccessfulSentMessage . Image name: SuccessfulSentMessage-4.png
+2022-abr.-03 14:01:25 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2' , Extracted Text : 'Your message has been successfully sent to our team.''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\contactUsForVisitors\SuccessfulSentMessage . Image name: SuccessfulSentMessage-5.png
+2022-abr.-03 14:01:25 [Test] INFO  : ***** TEST HAS FINISHED ******contactUsForVisitors-SuccessfulSentMessage
+2022-abr.-03 14:01:27 [Test] INFO  : ***** TEST HAS FINISHED ******contactUsForVisitors-SuccessfulSentMessage
+2022-abr.-03 14:01:40 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'contactUsForVisitors' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\contactUsForVisitors\ErrorByNotSelectedSubjectHeading . Image name: ErrorByNotSelectedSubjectHeading-0.png
+2022-abr.-03 14:01:43 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\contactUsForVisitors\ErrorByNotSelectedSubjectHeading . Image name: ErrorByNotSelectedSubjectHeading-1.png
+2022-abr.-03 14:01:43 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'gia.reichel@testemail.com' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\contactUsForVisitors\ErrorByNotSelectedSubjectHeading . Image name: ErrorByNotSelectedSubjectHeading-2.png
+2022-abr.-03 14:01:44 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Aperiam aut impedit suscipit nihil eum adipisci. Cumque optio reiciendis facilis ea necessitatibus voluptates atque. Et accusamus consectetur qui suscipit. Est ut pariatur. Cupiditate quod qui ea cum earum minus.' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\contactUsForVisitors\ErrorByNotSelectedSubjectHeading . Image name: ErrorByNotSelectedSubjectHeading-3.png
+2022-abr.-03 14:01:46 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\contactUsForVisitors\ErrorByNotSelectedSubjectHeading . Image name: ErrorByNotSelectedSubjectHeading-4.png
+2022-abr.-03 14:01:46 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2' , Extracted Text : 'Please select a subject from the list provided.''.
+2022-abr.-03 14:01:46 [Test] INFO  : ***** TEST HAS FINISHED ******contactUsForVisitors-ErrorByNotSelectedSubjectHeading
+2022-abr.-03 14:01:47 [Test] INFO  : ***** TEST HAS FINISHED ******contactUsForVisitors-ErrorByNotSelectedSubjectHeading
+2022-abr.-03 14:01:55 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'ShoppingProcessByUser' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-0.png
+2022-abr.-03 14:01:57 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-1.png
+2022-abr.-03 14:01:59 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'xpath: //ul[@class="product_list grid row"]/li[1]/div' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-2.png
+2022-abr.-03 14:02:00 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-3.png
+2022-abr.-03 14:02:01 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10' , Extracted Text : 'Printed Dress''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-4.png
+2022-abr.-03 14:02:01 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3' , Extracted Text : 'Orange, S''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-5.png
+2022-abr.-03 14:02:02 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3' , Extracted Text : '1''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-6.png
+2022-abr.-03 14:02:02 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3' , Extracted Text : '$26.00''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-7.png
+2022-abr.-03 14:02:02 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10' , Extracted Text : 'Product successfully added to your shopping cart''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-8.png
+2022-abr.-03 14:02:03 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '4''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-9.png
+2022-abr.-03 14:02:03 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-10.png
+2022-abr.-03 14:02:04 [Test] COMPLETED : Action 'waitForVisibility' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-11.png
+2022-abr.-03 14:02:04 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3' , Extracted Text : '1''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-12.png
+2022-abr.-03 14:02:05 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3' , Extracted Text : 'Orange, S''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-13.png
+2022-abr.-03 14:02:05 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3' , Extracted Text : '$26.00''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\ProductSuccessfullyAddedToCart . Image name: ProductSuccessfullyAddedToCart-14.png
+2022-abr.-03 14:02:07 [Test] INFO  : ***** TEST HAS FINISHED ******ShoppingProcessByUser-ProductSuccessfullyAddedToCart
+2022-abr.-03 14:02:07 [Test] INFO  : ***** TEST HAS FINISHED ******ShoppingProcessByUser-ProductSuccessfullyAddedToCart
+2022-abr.-03 14:02:16 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'ShoppingProcessByUser' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-0.png
+2022-abr.-03 14:02:24 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-1.png
+2022-abr.-03 14:02:25 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'id: email_create' , Text : 'kameron.larson@testemail.com' , Timeout : '2''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-2.png
+2022-abr.-03 14:02:26 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-3.png
+2022-abr.-03 14:02:32 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'id: uniform-id_gender1' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-4.png
+2022-abr.-03 14:02:32 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Don' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-5.png
+2022-abr.-03 14:02:33 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Johnston' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-6.png
+2022-abr.-03 14:02:33 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '12496598' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-7.png
+2022-abr.-03 14:02:34 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : '10' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-8.png
+2022-abr.-03 14:02:34 [Test] COMPLETED : Action 'selectByValue' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Value : '6' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-9.png
+2022-abr.-03 14:02:35 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : '1988' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-10.png
+2022-abr.-03 14:02:36 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Apt. 809 02258 Sigmund Islands, New Demarcushaven, RI 78672' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-11.png
+2022-abr.-03 14:02:36 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Kerlukeshire' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-12.png
+2022-abr.-03 14:02:37 [Test] COMPLETED : Action 'selectByText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Text : 'Florida' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-13.png
+2022-abr.-03 14:02:37 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '76124' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-14.png
+2022-abr.-03 14:02:38 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '3188776834' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-15.png
+2022-abr.-03 14:02:40 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-16.png
+2022-abr.-03 14:02:50 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'ShoppingProcessByUser' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-17.png
+2022-abr.-03 14:02:51 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-18.png
+2022-abr.-03 14:02:53 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'xpath: //ul[@class="product_list grid row"]/li[1]/div' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-19.png
+2022-abr.-03 14:02:53 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-20.png
+2022-abr.-03 14:02:55 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10' , Extracted Text : 'Printed Dress''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-21.png
+2022-abr.-03 14:02:56 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : 'Orange, S''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-22.png
+2022-abr.-03 14:02:56 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : '1''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-23.png
+2022-abr.-03 14:02:56 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : '$26.00''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-24.png
+2022-abr.-03 14:02:57 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-25.png
+2022-abr.-03 14:02:57 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-26.png
+2022-abr.-03 14:02:58 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-27.png
+2022-abr.-03 14:02:59 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10' , Extracted Text : 'Printed Chiffon Dress''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-28.png
+2022-abr.-03 14:02:59 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : 'Yellow, S''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-29.png
+2022-abr.-03 14:03:00 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : '1''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-30.png
+2022-abr.-03 14:03:00 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : '$16.40''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-31.png
+2022-abr.-03 14:03:00 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-32.png
+2022-abr.-03 14:03:01 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-33.png
+2022-abr.-03 14:03:03 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-34.png
+2022-abr.-03 14:03:04 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-35.png
+2022-abr.-03 14:03:04 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10' , Extracted Text : 'Printed Dress''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-36.png
+2022-abr.-03 14:03:04 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3' , Extracted Text : 'Color : Orange, Size : S''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-37.png
+2022-abr.-03 14:03:05 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3' , Extracted Text : '$26.00''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-38.png
+2022-abr.-03 14:03:05 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-39.png
+2022-abr.-03 14:03:05 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10' , Extracted Text : 'Printed Chiffon Dress''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-40.png
+2022-abr.-03 14:03:06 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3' , Extracted Text : 'Color : Yellow, Size : S''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-41.png
+2022-abr.-03 14:03:06 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3' , Extracted Text : '$16.40''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-42.png
+2022-abr.-03 14:03:06 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-43.png
+2022-abr.-03 14:03:09 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-44.png
+2022-abr.-03 14:03:09 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-45.png
+2022-abr.-03 14:03:10 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'kameron.larson@testemail.com' , Timeout : '4''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-46.png
+2022-abr.-03 14:03:10 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '12496598' , Timeout : '4''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-47.png
+2022-abr.-03 14:03:13 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '4''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-48.png
+2022-abr.-03 14:03:14 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-49.png
+2022-abr.-03 14:03:16 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-50.png
+2022-abr.-03 14:03:16 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-51.png
+2022-abr.-03 14:03:16 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-52.png
+2022-abr.-03 14:03:17 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-53.png
+2022-abr.-03 14:03:19 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-54.png
+2022-abr.-03 14:03:19 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-55.png
+2022-abr.-03 14:03:21 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-56.png
+2022-abr.-03 14:03:21 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '10''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-57.png
+2022-abr.-03 14:03:24 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-58.png
+2022-abr.-03 14:03:25 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2' , Extracted Text : 'Your order on My Store is complete.''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-59.png
+2022-abr.-03 14:03:25 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-60.png
+2022-abr.-03 14:03:25 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2' , Extracted Text : '$44.40''.
+		Evidence saved at: C:\Users\S410p Touch\Documents\5.GuardarLenguajes\Carpeta_Java\Sofka\RetoFrameSofka\src\main\resources\evidence\contactUsForVisitors_2022-04-03T14-01\ShoppingProcessByUser\SuccessfulPurchaseProcess . Image name: SuccessfulPurchaseProcess-61.png
+2022-abr.-03 14:03:26 [Test] INFO  : ***** TEST HAS FINISHED ******ShoppingProcessByUser-SuccessfulPurchaseProcess
+2022-abr.-03 14:03:26 [Test] INFO  : ***** TEST HAS FINISHED ******ShoppingProcessByUser-SuccessfulPurchaseProcess
